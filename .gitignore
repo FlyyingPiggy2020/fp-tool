@@ -65,7 +65,5 @@ dkms.conf
 *.bak
 
 
-*.zip
-
-Hardware/FP-TOOL/History
-Hardware/FP-TOOL/Project Logs for fp_tool
+/Hardware/FP-TOOL V1.0/History/*
+/Hardware/FP-TOOL/Project Logs for fp_tool
